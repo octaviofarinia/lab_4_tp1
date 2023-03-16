@@ -1,0 +1,7 @@
+.BannedUsuarioTableRow {
+  background-color: #fd9f8b;
+}
+
+.ActiveUsuarioTableRow {
+  background-color: #cef8c6;
+}
